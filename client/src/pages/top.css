@@ -1,0 +1,4 @@
+.tweet-embed > div {
+  display: flex;
+  justify-content: center;
+}

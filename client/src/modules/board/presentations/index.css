@@ -1,0 +1,18 @@
+.wrapper {
+  height: 256px;
+  width: 256px;
+  margin: 0 auto;
+  background-color: #000;
+  overflow: hidden;
+  display: none;
+}
+.canvas {
+  background-color: #000;
+}
+.zone {
+  border: 2px dashed #0087F7;
+  border-radius: 5px;
+  background: white;
+  height: 256px;
+  width: 256px;
+}
